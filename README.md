@@ -6,7 +6,7 @@
  - Game development via Unity Engine 🎮⚡
 
   
- 📚 I'm currently studing in the "KhCTPC" college and the IT-Academy 📚
+ 📚 I'm currently studing in "KhCTPC" college and the IT-Academy 📚
 
  👀 I’m looking to collaborate on any projects that include C# and game making) 👀
   
