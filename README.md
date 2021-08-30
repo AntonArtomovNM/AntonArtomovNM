@@ -2,8 +2,8 @@
 
 
    My interests are:
- - .Net development 💻💫
- - Game development via Unity Engine 🎮⚡
+ - .Net development 💻
+ - Game development via Unity Engine 🎮
 
  📚 I'm currently studing in "KhCTPC" college and the IT-Academy 📚
 
