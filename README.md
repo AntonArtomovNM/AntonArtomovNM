@@ -1,13 +1,15 @@
-  Hi✌ I’m Anton Artomov!😜
+  # About
+  
+  Hi✌ I’m Anton Artomov!
 
 
    My interests are:
  - .Net development 💻
  - Game development via Unity Engine 🎮
 
-I'm currently working as a trainee .Net developer in SoftServe and studing in KhCTPC
+I'm currently working as trainee .Net developer at SoftServe and studing software development at KhCTPC
 
-I’m looking to collaborate on any projects that include C# and game making)
+I’m looking to collaborate on any projects that include C# and game developing :)
   
  📫 How to reach me: 📫
  - Gmail: antonIOartiomov@gmail.com
